@@ -10,3 +10,5 @@
    c. Requirements.txt
 
 2. `src` folder and build the package
+
+3. Implement Logging and Exception Handling
