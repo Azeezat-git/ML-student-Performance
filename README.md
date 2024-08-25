@@ -4,5 +4,9 @@
 
 1. Set Up Github repository
    a. New Environment
-   b. Setup.py
+
+   b. setup.py - To create the ML app as a package
+
    c. Requirements.txt
+
+2. `src` folder and build the package
