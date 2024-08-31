@@ -14,3 +14,5 @@
 3. Implement Logging and Exception Handling
 
 4. Dataset: Student - Performance
+
+This project uses Docker container deployment to AWS ECR
